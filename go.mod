@@ -12,7 +12,7 @@ require (
 	github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e // indirect
 	github.com/stretchr/testify v1.8.1
 	github.com/uptrace/bun/driver/sqliteshim v1.0.8
-	golang.org/x/crypto v0.31.0
+	golang.org/x/crypto v0.35.0
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
 	modernc.org/sqlite v1.11.2 // indirect
 )
